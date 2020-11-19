@@ -1,0 +1,19 @@
+{
+  "name": "gh-action-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TESTING...........\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanm/gh-action-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmanm/gh-action-test/issues"
+  },
+  "homepage": "https://github.com/salmanm/gh-action-test#readme"
+}
