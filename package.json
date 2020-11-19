@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"TESTING...........\""
+    "test": "tap test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/salmanm/gh-action-test/issues"
   },
-  "homepage": "https://github.com/salmanm/gh-action-test#readme"
+  "homepage": "https://github.com/salmanm/gh-action-test#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.10.0",
+    "fastify": "^3.8.0",
+    "tap": "^14.11.0"
+  }
 }
